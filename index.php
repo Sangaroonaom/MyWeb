@@ -1,10 +1,13 @@
 <html>
+
 <head> 
-<title> MyWeb </title>
+ <H1 align=center> Welcome to Thailand . . . ^0^"</H1>
 </head>
 
-<body>
-   <h1> MyWeb </h1> <br>
-   <p> Software Engineering</p>
+<body bgcolor = "pink">
+<center><a href="http://image.goosiam.com/view.asp?uid=115979&s=KLRQ3D4yLUAG" target="_blank"><img border="0" src="http://image.goosiam.com/imgupload/l/KLRQ3D4yLUAG.jpg"/></a>
+
+</center>
+
 </body>
 </html>
