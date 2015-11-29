@@ -1,6 +1,6 @@
 <html>
- <meta charset="utf-8">
-<style>body{cursor:url("http://www.boobeecute.com/images/cursor/animal/pk-cur00015.ani");}</style>        
+<meta charset="utf-8">
+<style> body, a:hover {cursor: url(http://flash-mini.com/hi5code/mouse_pic/1348661748.cur), progress !important;} </style> 
 
 
 <embed src=" http://www.blogclock.cn/swf/S100261b34b3ff4-1.swf" Width="200px" Height="300px" type="application/x-shockwave-flash" quality="high" wmode="transparent" align = "left">
