@@ -12,8 +12,8 @@
 
 
 <body>
-<body bgcolor ="#CCFFFF	"> 
 
+<center><body background= "http://static.tumblr.com/eip9b5z/7Obn7kzxf/jof.png"></center>
 <center><a href="http://s1074.photobucket.com/user/Darkmeen002/media/hghghghg_zpsbyre1img.jpg.html" target="_blank"><img src="http://i1074.photobucket.com/albums/w412/Darkmeen002/hghghghg_zpsbyre1img.jpg" border="0" alt=" photo hghghghg_zpsbyre1img.jpg"/></a>
 <br>
 <h2><align ="center">
