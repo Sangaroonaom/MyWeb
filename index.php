@@ -21,8 +21,8 @@
          <font color="#00BFFF">Nickname : Aom </font><br>
          <font color="#1E90FF">Sex : Female</font><br>
          <font color="#00FF7F">Student ID : 5605104047 </font><br>
-         <font color="#FFD700">Faculty : Science and Technology </font><br>
-         <font color="#00FF7F">Major :  Information and Communication Technology</font> <br>
+         <font color="#FF1493">Faculty : Science and Technology </font><br>
+         <font color="#FF8C00">Major :  Information and Communication Technology</font> <br>
          <font color="#FF0000">University of the Thai Chamber of Commerce</font></h2>
 
 
