@@ -4,7 +4,7 @@
 
 
 <embed src=" http://www.blogclock.cn/swf/S100261b34b3ff4-1.swf" Width="200px" Height="300px" type="application/x-shockwave-flash" quality="high" wmode="transparent" align = "left">
-<align ="right"><embed height="300" type="application/x-shockwave-flash" width="400" src="http://i98.photobucket.com/albums/l252/N_BEE810/clock3/NB22.swf" wmode="transparent"></right>
+<center><EMBED src="http://i22.photobucket.com/albums/b346/beautyswan/2-1.swf"wmode="transparent"; border="0" width="150" height="180" align ="right"/>
 <br>
 
 
