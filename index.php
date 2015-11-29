@@ -23,7 +23,7 @@
          <font color="#1E90FF">Student ID : 5605104047 </font><br>
          <font color="#FF1493">Faculty : Science and Technology </font><br>
          <font color="#FF3030">Major :  Information and Communication Technology</font> <br>
-         <font color="#FFD700">University of the Thai Chamber of Commerce</font></h2>
+         <font color="#FF0000">University of the Thai Chamber of Commerce</font></h2>
 
 
 </body>
