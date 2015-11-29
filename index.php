@@ -8,7 +8,7 @@
 <br>
 
 
-<h1><font color="blue"><center><tittle>Welcome to my Profile ^^"</tittle></font></h1>
+<h1><font color="pink"><center><tittle>* {{ About Me }} * </tittle></font></h1>
 
 
 <body>
